@@ -1,6 +1,6 @@
 # npmtest-express-session
 
-#### test coverage for  [express-session (v1.15.2)](https://github.com/expressjs/session#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-session.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-session) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-session.svg)](https://travis-ci.org/npmtest/node-npmtest-express-session)
+#### basic test coverage for  [express-session (v1.15.2)](https://github.com/expressjs/session#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-express-session.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-express-session) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-express-session.svg)](https://travis-ci.org/npmtest/node-npmtest-express-session)
 
 #### Simple session middleware for Express
 
